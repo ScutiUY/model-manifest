@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "minAppVersion": "1.0",
+  "minAppVersion": "1.0.0",
   "models": {
     "ko": {
       "id": "exaone-1.2b-ko-q4",
