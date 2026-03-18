@@ -8,7 +8,7 @@
       "url": "https://huggingface.co/LGAI-EXAONE/EXAONE-3.5-2.4B-Instruct-GGUF/resolve/main/EXAONE-3.5-2.4B-Instruct-Q4_K_M.gguf",
       "size": 943718400,
       "sha256": "",
-      "template": "chatml",
+      "template": "exaone",
       "contextSize": 8192,
       "sampling": {
         "temperature": 0.6,
